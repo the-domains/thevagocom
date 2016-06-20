@@ -1,0 +1,14 @@
+layout_spectrum: 0.39055886142887175
+typography_spectrum: 0.6909260363318026
+color:
+  brandStrength: 0.3584215654991567
+  lightness: 0.3890353925526142
+  saturation: 0.18018733174540102
+  rhythmicContrast: 0.6763612246140838
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: thevago.com
